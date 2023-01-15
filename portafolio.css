@@ -1,0 +1,72 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 25px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 20px;
+}
+
+.contenedor {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.caja1 {
+  width: 300px;
+  height: 223px;
+  background-image: url(img/mazinger.jpg);
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.caja2 {
+  width: 300px;
+  height: 223px;
+  background-image: url(img/fulldeportes.jpg);
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.caja3 {
+  width: 300px;
+  height: 223px;
+  background-image: url(img/resto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.caja4 {
+  width: 300px;
+  height: 223px;
+  background-image: url(img/bicicletas.jpg);
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+  color: rgb(15, 1, 1);
+  margin-top: 261px;
+  text-decoration: none;
+}
