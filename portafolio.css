@@ -34,7 +34,7 @@ h3 {
   background-image: url(img/mazinger.jpg);
   margin-right: 10px;
   margin-bottom: 10px;
-  text-align: center;
+  text-align: left;
 }
 
 .caja2 {
@@ -43,7 +43,7 @@ h3 {
   background-image: url(img/fulldeportes.jpg);
   margin-right: 10px;
   margin-bottom: 10px;
-  text-align: center;
+  text-align: left;
 }
 
 .caja3 {
@@ -54,7 +54,7 @@ h3 {
   background-size: cover;
   margin-right: 10px;
   margin-bottom: 10px;
-  text-align: center;
+  text-align: left;
 }
 
 .caja4 {
@@ -63,7 +63,7 @@ h3 {
   background-image: url(img/bicicletas.jpg);
   margin-right: 10px;
   margin-bottom: 10px;
-  text-align: center;
+  text-align: left;
 }
 
 a {
