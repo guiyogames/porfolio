@@ -29,42 +29,41 @@ h3 {
 }
 
 .caja1 {
-  width: 300px;
-  height: 223px;
+  
   background-image: url(img/mazinger.jpg);
-  margin-right: 10px;
-  margin-bottom: 10px;
-  text-align: left;
+  
 }
 
 .caja2 {
-  width: 300px;
-  height: 223px;
+  
   background-image: url(img/fulldeportes.jpg);
-  margin-right: 10px;
-  margin-bottom: 10px;
-  text-align: left;
+
 }
 
 .caja3 {
-  width: 300px;
-  height: 223px;
+
   background-image: url(img/resto.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+
+}
+
+.caja4 {
+  
+  background-image: url(img/bicicletas.jpg);
+ 
+}
+/* estilos en común cajas */
+.caja1, .caja2, .caja3, .caja4{
+
+  width: 300px;
+  height: 223px;
   margin-right: 10px;
   margin-bottom: 10px;
   text-align: left;
 }
 
-.caja4 {
-  width: 300px;
-  height: 223px;
-  background-image: url(img/bicicletas.jpg);
-  margin-right: 10px;
-  margin-bottom: 10px;
-  text-align: left;
-}
+
 
 a {
   text-decoration: none;
