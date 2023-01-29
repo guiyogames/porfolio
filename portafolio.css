@@ -53,8 +53,18 @@ h3 {
   background-image: url(img/bicicletas.jpg);
  
 }
+
+
+.caja5{
+
+  display: flex;
+  margin: 154px 0px 24px -922px;
+  background-image: url(img/responive_burger.jpg)
+}
+
+
 /* estilos en común cajas */
-.caja1, .caja2, .caja3, .caja4{
+.caja1, .caja2, .caja3, .caja4, .caja5{
 
   width: 300px;
   height: 223px;
@@ -62,7 +72,6 @@ h3 {
   margin-bottom: 10px;
   text-align: left;
 }
-
 
 
 a {
