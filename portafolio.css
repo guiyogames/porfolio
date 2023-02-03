@@ -6,6 +6,7 @@
 h1 {
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 20px;
   margin-bottom: 25px;
 }
 
@@ -23,7 +24,7 @@ h3 {
 
 .contenedor {
   display: flex;
-  margin-top: 10px;
+  margin-top: 20px;
   align-items: center;
   justify-content: center;
 }
@@ -57,11 +58,11 @@ h3 {
 
 .caja5{
 
-  display: flex;
   margin: 154px 0px 24px -922px;
   background-image: url(img/responive_burger.jpg)
 }
 
+/* usar para el próximo proyecto, duplicar documento, y desactivar display none  */
 
 /* estilos en común cajas */
 .caja1, .caja2, .caja3, .caja4, .caja5{
@@ -81,6 +82,6 @@ a {
 p {
   font-size: 20px;
   color: rgb(15, 1, 1);
-  margin-top: 261px;
+  margin-top: 235px;
   text-decoration: none;
 }
